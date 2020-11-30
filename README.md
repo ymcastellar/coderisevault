@@ -1,2 +1,2 @@
 # coderisevault.github.io
-Landing page for Coderise Vault https://ymcastellar.github.io/coderisevault/
+Landing page for Coderise Vault https://coderisevaultproject.netlify.app
